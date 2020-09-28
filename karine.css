@@ -1,0 +1,28 @@
+h1 {
+ color: darkslateblue;
+ font-size: 45px; 
+  border-style: groove;
+    border-color: aqua;
+    border-radius: 15px;
+   
+}
+
+p { font-size: 18px;
+    color: palevioletred;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+              }
+img {width: 300px
+     }
+
+
+h2{color: darkslateblue;
+   border-style: groove;
+    border-color: aqua;
+    border-radius: 15px;
+
+}
+.caption{
+    font-size: 18px; 
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
